@@ -1,0 +1,7 @@
+<resources>
+    <color name="white">#FFFFFF</color>  <!-- white background -->
+    <color name="black">#000000</color>   <!-- Black text -->
+    <color name="darkgreen">#02472E</color>   <!-- Dark Green text -->
+    <color name="placeholderBackground">#E0E0E0</color>  <!-- Light gray background -->
+    <color name="cardBackground">#FFFFFF</color>  <!-- Explicit white for card -->
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DoA</string>
+    <string name="dept_of_agriculture">Department of Agriculture</string>
+    <string name="himachal_pradesh">Himachal Pradesh</string>
+    <string name="search_scheme">Search scheme</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="how_to_apply">How to Apply</string>
+    <string name="eligibility">Eligibility</string>
+    <string name="scheme_name">Scheme Name</string>
+    <string name="back">Back</string>
+    <string name="schemes">Schemes</string>
+    <string name="app_logo">App Logo</string>
+    <string name="government_schemes">Government Schemes</string>
+    <string-array name="scheme_categories">
+        <item>Financial</item>
+        <item>Educational</item>
+    </string-array>
+    <string-array name="category_array">
+        <item>Financial</item>
+        <item>Educational</item>
+        <item>Agriculture</item>
+        <item>Healthcare</item>
+    </string-array>
+</resources>
