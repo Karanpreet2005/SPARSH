@@ -19,9 +19,6 @@ SPARSH is an Android application that allows users to explore and get detailed i
     - Additional relevant information.
 - **Video Guides:** Watch embedded YouTube videos for a better understanding of the schemes.
 
-## Screenshots
-
-[TODO: Add screenshots of the application]
 
 ## Getting Started
 
